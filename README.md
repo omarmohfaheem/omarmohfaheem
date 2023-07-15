@@ -3,16 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmohfaheem&label=Profile%20views&color=0e75b6&style=flat" alt="omarmohfaheem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarmohfaheem" alt="omarmohfaheem" /></a> </p>
 -💻 I’m a computer engineering undergraduate at Cairo Universty. 
 
 - 🔭 I’m enthusiastic about Frontend Web Development
 
-
 - 🌱 I’m currently learning about Backend web development
 
 - 👯 I’m looking to collaborate on Web Development Projects
-
 
 - 📫 How to reach me **omarmohamedfaheem@gmail.com**
 
