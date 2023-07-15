@@ -164,6 +164,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmohfaheem&label=Profile%20views&color=0e75b6&style=flat" alt="omarmohfaheem" /> </p>
 
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarmohfaheem&show_icons=true&locale=en&layout=compact" alt="omarmohfaheem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarmohfaheem&show_icons=true&locale=en" alt="omarmohfaheem" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarmohfaheem&show_icons=true&locale=en" alt="omarmohfaheem" /></p> -->
