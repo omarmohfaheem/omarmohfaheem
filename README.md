@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **omarmohamedfaheem@gmail.com**
 
-- ⚡ Fun fact **I am SUPER COMPETITIVE xD**
+- ⚡ Fun fact **I am SUPER COMPETITIVE xD**.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
