@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Mohamed Faheem</h1>
 <h3 align="center">An extremely hard working, competitive, motivated and friendly computer engineering student.</h3>
 
-- 💻 I’m a computer engineering undergraduate at Cairo Universty. 
+- 💻 I’m a computer engineering undergraduate at Cairo University. 
 
 - 🔭 I’m enthusiastic about Frontend Web Development.
 
