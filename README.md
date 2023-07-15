@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Omar Mohamed Faheem</h1>
 <h3 align="center">An extremely hard working, competitive, motivated and friendly computer engineering student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmohfaheem&label=Profile%20views&color=0e75b6&style=flat" alt="omarmohfaheem" /> </p>
-
 - 💻 I’m a computer engineering undergraduate at Cairo Universty. 
 
-- 🔭 I’m enthusiastic about Frontend Web Development
+- 🔭 I’m enthusiastic about Frontend Web Development.
 
-- 🌱 I’m currently learning about Backend web development
+- 🌱 I’m currently learning about Backend web development.
 
-- 👯 I’m looking to collaborate on Web Development Projects
+- 👯 I’m looking to collaborate on Web Development Projects.
 
 - 📫 How to reach me **omarmohamedfaheem@gmail.com**
 
@@ -164,6 +162,7 @@
 </p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmohfaheem&label=Profile%20views&color=0e75b6&style=flat" alt="omarmohfaheem" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarmohfaheem&show_icons=true&locale=en&layout=compact" alt="omarmohfaheem" /></p>
 
