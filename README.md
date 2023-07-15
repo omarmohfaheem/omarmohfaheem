@@ -5,7 +5,7 @@
 
 - 🔭 I’m enthusiastic about Frontend Web Development.
 
-- 🌱 I’m currently learning about Backend web development.
+- 🌱 I’m currently learning about Backend Web development.
 
 - 👯 I’m looking to collaborate on Web Development Projects.
 
