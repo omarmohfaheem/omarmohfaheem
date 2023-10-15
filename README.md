@@ -115,6 +115,24 @@
       />
     </a>
   </a> -->
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+    alt="nodejs"
+    width="40"
+    height="40"
+  />
+</a>
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+    alt="express"
+    width="40"
+    height="40"
+  />
+</a>
+
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -143,6 +161,15 @@
       height="40"
     />
   </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+    alt="github"
+    width="40"
+    height="40"
+  />
+</a>
+
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
