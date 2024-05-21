@@ -3,9 +3,9 @@
 
 - 💻 I’m a computer engineering undergraduate at Cairo University. 
 
-- 🔭 I’m enthusiastic about Frontend Web Development.
+- 🔭 I’m enthusiastic about Fullstack Web Development.
 
-- 🌱 I’m currently learning about Backend Web development.
+<!-- - 🌱 I’m currently learning about Backend Web development. --> 
 
 - 👯 I’m looking to collaborate on Web Development Projects.
 
