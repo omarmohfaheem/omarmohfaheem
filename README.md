@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Mohamed Faheem</h1>
-<h3 align="center">An extremely hard working, competitive, motivated and friendly computer engineer. </h3>
+<h3 align="center">A hard working, competitive, motivated and friendly computer engineer. </h3>
 
 - 💻 I’m a computer engineering fresh graduate from Cairo University. 
 
