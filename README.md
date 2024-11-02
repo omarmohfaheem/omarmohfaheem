@@ -53,7 +53,7 @@
     <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="MUI" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://icons8.com/icon/x7XMNGh2vdqA/tailwind-css" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 </p>
 
