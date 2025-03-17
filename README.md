@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar Mohamed Faheem</h1>
 <h3 align="center">Full-Stack Developer and a Computer Engineer.</h3>
 
-- 💻 I’m a computer engineering fresh graduate from Cairo University. 
+- 💻 I’m a full-stack web developer. 
 
-- 🔭 I’m enthusiastic about Fullstack Web Development.
+- 🔭 I’m enthusiastic about Web Development.
 
 <!-- - 👯 I’m looking to collaborate on Web Development Projects. -->
 
