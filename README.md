@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am SUPER COMPETITIVE xD**
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h3>
 
 ### Programming Languages
 <p align="left">
